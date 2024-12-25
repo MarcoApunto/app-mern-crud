@@ -1,6 +1,6 @@
 # App-MERN-Crud
 
-Ejercicio grupal que consiste en crear una app MERN que incluye un servidor Express vinculando MongoDB para su manipulación vía app client para Desarrollo Web - Campus Digital San Blas
+Proyecto grupal que consiste en crear una app MERN que incluye un servidor Express vinculando MongoDB para su manipulación vía app client para Desarrollo Web - Campus Digital San Blas
 
 ## ROLES
 
