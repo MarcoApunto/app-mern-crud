@@ -1,6 +1,12 @@
 # App-MERN-Crud
 
-Proyecto grupal que consiste en crear una app MERN que incluye un servidor Express vinculando MongoDB para su manipulación vía app client para Desarrollo Web - Campus Digital San Blas
+Este proyecto grupal consiste en el desarrollo de una aplicación completa utilizando la arquitectura MERN (MongoDB, ExpressJS, React y Node.js). La aplicación incluye:
+
+- Un servidor backend construido con ExpressJS, que gestiona las operaciones del sistema y está conectado a una base de datos MongoDB para la manipulación y almacenamiento de datos
+
+- Un cliente frontend desarrollado con React, que ofrece una interfaz dinámica e interactiva para los usuarios finales.
+
+El objetivo principal del proyecto es implementar un sistema funcional y escalable como parte del curso de Desarrollo Web del Campus Digital San Blas, aplicando las mejores prácticas en desarrollo de software.
 
 ## ROLES
 
