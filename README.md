@@ -34,7 +34,7 @@ taller_mecanico
 
 - Creada dicha estructura con los nombres correspondientes, importaremos de una en una en cada colección la colección corespondiente que se encuentra en el directorio de las [colecciones](./mongo-taller_mecanico-collections/)
 
-- En la carpeta raíz, inicializaremos el servidor ExpressJS con `npm start`. Su puerto está configurado en el _3001_ y con el `CORS` trabajando de manera específica para el cliente REACT, que está asignado al puerto _3000_
+- En la carpeta raíz, instalaremos las dependencias con `npm i` e inicializaremos el servidor con `npm start`. Su puerto está configurado en el _3001_ y con el `CORS` trabajando de manera específica para el cliente REACT, que está asignado al puerto _3000_
 
 - Finalmente, nos situaremos en el directorio [cliente](./client), instalamos las dependencias con `npm i` y lo inicializaremos con `npm start`
 
