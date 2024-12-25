@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6763442b32d223f91e5bd719"
+  },
+  "user": "mecanico1",
+  "password": "123456",
+  "role": "mecanico"
+},
+{
+  "_id": {
+    "$oid": "67634b2d32d223f91e5bd71e"
+  },
+  "user": "mecanico2",
+  "password": "6789",
+  "role": "mecanico"
+},
+{
+  "_id": {
+    "$oid": "67634bb332d223f91e5bd720"
+  },
+  "user": "encargado1",
+  "password": "123456",
+  "role": "encargado"
+},
+{
+  "_id": {
+    "$oid": "67634bca32d223f91e5bd721"
+  },
+  "user": "encargado2",
+  "password": "6789",
+  "role": "encargado"
+}]

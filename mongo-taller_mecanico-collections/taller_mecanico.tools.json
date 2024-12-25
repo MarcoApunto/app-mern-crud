@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67634c4032d223f91e5bd723"
+  },
+  "name": "alicate",
+  "status": "No, dejame",
+  "brand": "dexter"
+},
+{
+  "_id": {
+    "$oid": "67634c9432d223f91e5bd724"
+  },
+  "name": "llave inglesa",
+  "status": "Noooo, se murió!",
+  "brand": "dexter"
+},
+{
+  "_id": {
+    "$oid": "67634cb632d223f91e5bd725"
+  },
+  "name": "martillo",
+  "status": "disponible",
+  "brand": "dexter"
+},
+{
+  "_id": {
+    "$oid": "67634cd132d223f91e5bd726"
+  },
+  "name": "caballete",
+  "status": "roto",
+  "brand": "dexter"
+},
+{
+  "_id": {
+    "$oid": "67634cee32d223f91e5bd727"
+  },
+  "name": "gato hidráulico",
+  "status": "extraviado",
+  "brand": "dexter"
+},
+{
+  "_id": {
+    "$oid": "67634d0f32d223f91e5bd728"
+  },
+  "name": "cable de arranque",
+  "status": "disponible",
+  "brand": "dexter"
+}]

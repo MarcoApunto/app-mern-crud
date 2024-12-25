@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "676371cde3174f5c348797d8"
+  },
+  "message": "Que alicatinho se ha borrado :'(",
+  "fecha": {
+    "$date": "2024-12-19T01:07:25.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67637b4686c43a62c35e37f9"
+  },
+  "message": "que no! Que era bromis",
+  "fecha": {
+    "$date": "2024-12-19T01:47:50.726Z"
+  }
+}]
